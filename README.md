@@ -8,7 +8,7 @@ O objetivo é acertar a posição de um navio escondido em um tabuleiro 5x5.
 ## Como funciona
 - O tabuleiro é representado por uma matriz **5x5**.  
 - O navio é sorteado aleatoriamente em uma posição (linha e coluna).  
-- O jogador tenta adivinhar digitando a posição, por exemplo:  
+- O jogador tenta adivinhar digitando a posição, por exemplo: 0 2
 
 ## Recursos utilizados
 - **Listas de listas (matriz)** : para representar o tabuleiro.  
